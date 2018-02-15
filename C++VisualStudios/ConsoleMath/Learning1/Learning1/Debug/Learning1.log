@@ -1,11 +1,10 @@
 ﻿  main.cpp
-c:\users\liam\source\repos\learning1\learning1\main.cpp(7): warning C4018: '<': signed/unsigned mismatch
-c:\users\liam\source\repos\learning1\learning1\main.cpp(21): warning C4018: '<': signed/unsigned mismatch
-c:\users\liam\source\repos\learning1\learning1\main.cpp(51): warning C4018: '<': signed/unsigned mismatch
-c:\users\liam\source\repos\learning1\learning1\main.cpp(67): warning C4018: '<': signed/unsigned mismatch
-c:\users\liam\source\repos\learning1\learning1\main.cpp(91): warning C4018: '<': signed/unsigned mismatch
-c:\users\liam\source\repos\learning1\learning1\main.cpp(98): warning C4018: '<': signed/unsigned mismatch
-c:\users\liam\source\repos\learning1\learning1\main.cpp(117): warning C4018: '<': signed/unsigned mismatch
-c:\users\liam\source\repos\learning1\learning1\main.cpp(136): warning C4018: '<': signed/unsigned mismatch
-  Learning1.vcxproj -> C:\Users\liam\source\repos\Learning1\Debug\Learning1.exe
-  Learning1.vcxproj -> C:\Users\liam\source\repos\Learning1\Debug\Learning1.pdb (Partial PDB)
+c:\users\liam snow\documents\github\projects\c++visualstudios\consolemath\learning1\learning1\main.cpp(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\liam snow\documents\github\projects\c++visualstudios\consolemath\learning1\learning1\main.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\liam snow\documents\github\projects\c++visualstudios\consolemath\learning1\learning1\main.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\liam snow\documents\github\projects\c++visualstudios\consolemath\learning1\learning1\main.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\liam snow\documents\github\projects\c++visualstudios\consolemath\learning1\learning1\main.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\liam snow\documents\github\projects\c++visualstudios\consolemath\learning1\learning1\main.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\liam snow\documents\github\projects\c++visualstudios\consolemath\learning1\learning1\main.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\liam snow\documents\github\projects\c++visualstudios\consolemath\learning1\learning1\main.cpp(136): warning C4018: '<': signed/unsigned mismatch
+  Learning1.vcxproj -> C:\Users\Liam Snow\Documents\GitHub\Projects\C++VisualStudios\ConsoleMath\Learning1\Debug\Learning1.exe
